@@ -24,12 +24,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>7.6.0.v20120127</version>
+            <version>9.4.47.v20220610</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
-            <version>7.6.0.v20120127</version>
+            <version>9.4.33.v20201020</version>
         </dependency>
         <dependency>
             <groupId>org.mortbay.jetty</groupId>
